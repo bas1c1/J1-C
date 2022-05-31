@@ -1,2 +1,2 @@
 # J1-C
-A J1 virtual proccessor written by C (Original written by D)
+Virtual processor J1 written in C. (The original J1 was written in D)
